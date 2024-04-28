@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    background-color:black;
+    color: rgb(85, 233, 85);
+    font-size: 17px;
+}
+
+.para{
+    margin:10px;
+    display: none;
+}
